@@ -1,4 +1,4 @@
-# online_shopping
+# Online Shopping
 AI to predict whether online shopping customers will complete a purchase.
 
 ## Overview:
